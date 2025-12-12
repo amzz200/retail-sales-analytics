@@ -1,0 +1,10 @@
+version: 2
+models:
+  - name: fct_sales_monthly
+    description: "Monthly sales/profit by customer, region, category"
+    columns:
+      - name: order_month
+        tests: [not_null]
+      - name: customer_id
+        tests: [not_null]
+
