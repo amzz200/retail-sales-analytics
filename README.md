@@ -1,6 +1,6 @@
 # Retail Sales Analytics Project (SQL + dbt + PostgreSQL)
 
-This project demonstrates a complete end-to-end analytics workflow using **PostgreSQL**, **dbt**, and **SQL** to transform raw retail sales data into actionable insights.  
+This project demonstrates a complete analytical workflow using **PostgreSQL**, **dbt**, and **SQL** to transform raw retail sales data into actionable insights.  
 It is designed as a portfolio project to showcase real-world data analysis, data modeling, and business decision-making.
 
 ---
